@@ -7,10 +7,11 @@ Currently, I'm into programming on *Roblox*,on roblox I program both client side
 
 If you wish to simply contact me, please visit my public socials! 
 
-# I'm currently... 🕵🏽
+# I'm currently... 📍
 
 + Programmer @ Club Luminous
 
+# Past Work... 🏅
 
 # Skills & Tools ⚙
 
