@@ -3,7 +3,7 @@
 Hello, I am Axnx, I am a 18 years old self-taught British programmer. 
 I have been programming since 2019, 
  I'm a front-end and back programmer on *Roblox*,
-achieving up to 35+ Million contributions on Roblox! 🏅
+achieving up to 35+ Million contributions! 🏅
 
 
 If you wish to simply contact me, please visit my public socials! 
