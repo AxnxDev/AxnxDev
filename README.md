@@ -1,9 +1,10 @@
 # Welcome To My Profile! ✊
 
-I'm Axnx he/him, a 18 year old British Programmer!
+Hello, I am Axnx, I am a 18 years old self-taught British programmer. 
+I have been programming since 2019, 
+ I'm a front-end and back programmer on *Roblox*,
+achieving up to 35+ Million contributions on Roblox! 🏅
 
-I'm a front and back ends programmer.<br>
-Currently, I'm into programming on *Roblox*,on roblox I program both client side and server sided!
 
 If you wish to simply contact me, please visit my public socials! 
 
