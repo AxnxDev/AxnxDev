@@ -12,6 +12,7 @@ If you wish to simply contact me, please visit my public socials!
 
 + Creator & Lead Programmer @ Vurge since Dec 2020
 + Programmer @ Club Luminous since Apr 2024
++ Programmer @ Dollsome since Oct 2023
 + Lead Programmer @ Burger 21 since May 2020
 
 
