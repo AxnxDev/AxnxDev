@@ -21,7 +21,7 @@ If you wish to simply contact me, please visit my public socials!
 + Lead Programmer @ Club Altitude from Oct 2023 to Feb 2024
 + Programmer @ Graceful Apparel from & to Dec 2022
 + Programmer @ Aquavillie from May 2022 to Jul 2022
-+ Lead Programmer @ GAP Honestore from Dec 2020 to Feb 2021 *(this has been shutdown)*
++ Lead Programmer @ GAP Homestore from Dec 2020 to Feb 2021 *(this has been shutdown)*
 + Bug Fixed @ Monster Battle in Oct 2020
 + Programmer @ Mano County from Aug 2020 to Oct 2020
 + Programmer @ Family Cafe in 2019
