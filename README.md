@@ -42,7 +42,5 @@ I actively work using the following programming languages:
   <img src="https://github-readme-stats.vercel.app/api?username=axnxdev&hide=contribs,prs&theme=dark">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=axnxdev&theme=dark">
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AxnxDev&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
