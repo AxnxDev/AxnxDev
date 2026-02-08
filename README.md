@@ -39,7 +39,7 @@ I actively work using the following programming languages:
 
 
 <p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=0">    <img  alt="AxnxDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AxnxDev?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=0" />  </a>
+     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=Source%20Sans%20Pro&preferLogin=false">    <img  alt="AxnxDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AxnxDev?cardType=level&theme=dark&fontFamily=Source%20Sans%20Pro&preferLogin=false" />  </a>
 
 </p>
 <p align="center">
