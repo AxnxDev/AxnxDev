@@ -39,7 +39,7 @@ I actively work using the following programming languages:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axnxdev&hide=contribs,prs&theme=dark">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=0">    <img  alt="AxnxDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AxnxDev?cardType=level&theme=dark&fontFamily=&preferLogin=false&borderRadius=0" />  </a>
 
 </p>
 <p align="center">
