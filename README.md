@@ -6,7 +6,7 @@ I have been programming since 2019,
 achieving up to 35+ Million contributions! 🏅
 
 
-If you wish to simply contact me, please visit my [public socials!](https://linktr.ee/axnx)! 
+If you wish to simply contact me, please visit my [public socials!](https://linktr.ee/axnx)
 
 # I'm currently... 📍
 
